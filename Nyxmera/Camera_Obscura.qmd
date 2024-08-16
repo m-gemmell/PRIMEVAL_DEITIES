@@ -19,9 +19,28 @@ The company has 3 major rules:
 
 These rules lead to team ups and rivalries aplenty.
 
+## ORGAN GRINDER {#organ_grinder}
+
+9 HP \| 1 ARMOR \| TAC:+1 \| FRC:0 \| RFX:-1 \| CRE:+1
+
+CHOKE 4: Escape with their jetpack
+
+- Special organ grinder containing below secret weapons (accessory)
+  - Hand cranked chain gun (1D6+1 DAMAGE)
+  - Knock out gas hose (1 use)
+  - Net gun (1 use) 
+- Hidden bullet proof vest (1 armor)
+- Tacky outfit to hide amongst other street performers (cowboy, cyberpunk, presidents etc.)
+
+__INSTRUMENTAL:__ This kidnappers secret weapon is their box organ grinder with an assortment of secret devices. They aim to avoid combat instead using social stealth to knock out, capture, and fly off with their target.
+
+__CACOPHONOUS DISCORDANCE (BOSS MOVE):__ ORGAN GRINDER plays a horrible cacophony on their organ grinder. Players gain disadvantage on all their actions. In combat this time equates to a round (an offense and defence phase).
+
 ## THE ANTIDOTER {#the_antidoter}
 
-(4 HP, CHOKE 4: ingest a fake cyanide pill which mimics a state of death for 12 hours)
+4 HP \| TAC:+1 \| FRC:-1 \| RFX:0 \| CRE:+1
+
+CHOKE 4: ingest a fake cyanide pill which mimics a state of death for 12 hours
 
 - Steak knife (3 DAMAGE)
 - Disguised as waiting staff or caterers
@@ -35,7 +54,9 @@ __PSIONIC PIPES (BOSS MOVE):__ Only works on individuals who have consumed at le
 
 ## THE KING {#the_king}
 
-(4 HP, CHOKE 2: Lifts midas touch curse and barters for mercy with pilfered goods)
+4 HP \| TAC:+1 \| FRC:-1 \| RFX:-1 \| CRE:+2
+
+CHOKE 2: Lifts midas touch curse and barters for mercy with pilfered goods
 
 - Deck of cards
 - Lock picking tools
@@ -56,7 +77,7 @@ __MIDAS TOUCH (BOSS MOVE):__ They can imbue one gold item and one person with th
 
 ## THE SILHOUETTE {#the_silhouette}
 
-(6 HP)
+6 HP \| TAC:+1 \| FRC:-1 \| RFX:-1 \| CRE:-1
 
 - [FAMAS](https://en.wikipedia.org/wiki/FAMAS) assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)
 - Trucker gear
@@ -72,7 +93,7 @@ __COLLAPSIBLE__ weapon tag: Easily concealed, no matter the size; will never be 
 
 ## SILHOUETTE SHADOW CLONE {#silhouette_shadow_clone}
 
-(1 HP)
+1 HP \| TAC:+1 \| FRC:-1 \| RFX:-1 \| CRE:-1
 
 - [FAMAS](https://en.wikipedia.org/wiki/FAMAS) assault rifle (1D6+1 DAMAGE)
 - Heavy riot shield (2 ARMOR, equip as weapon)

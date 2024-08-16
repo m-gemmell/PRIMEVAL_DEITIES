@@ -13,6 +13,12 @@ Nyxmera is everything but Earth. It craves what it can’t take. There is so muc
 
 Its logo represents the duality of the sky and Nyxmera’s eyes. On one side the blue sky and sun. On the other, the night sky with the Grey Moon and Purple Moon. Nyxmera loves extremes; good and evil, comedy and drama, love and war.
 
+## Tenents
+
+- Observe and sow intrigue
+- Balance through duality
+- Manipulate and utilise others as you see fit
+- Eternal beauty is preferred to the ethereal
 
 ## The Eyes of Nyxmera
 
@@ -28,5 +34,6 @@ There are many sub factions of Suns. The following pages are brief descriptions 
 
 - [Suns of Nyxmera](/Nyxmera/Suns.qmd): Typical followers of Nyxmera.
 - [Nyxmera Troops](/Nyxmera/Troops.qmd): Units used for a variety of combat based tasks in Nyxmera based companies.
+- [Doppelgänger Dunes](/Nyxmera/Doppelganger_Dunes.qmd): A company that lives within deserts. They love the clear skies and the extreme dilineation of day and night.
 - [Camera Obscura](/Nyxmera/Camera_Obscura.qmd): An organisation of "bounty hunters", called shutterbugs, that specialise in kidnappings and assassinations.
 - [Starvatars](/Nyxmera/Starvatars.qmd): Physical embodiments of the eyes of Nyxmera (stars, moons, and planets).
