@@ -110,6 +110,7 @@ website:
         - href: Tartarus/Kraken.qmd
         - href: Tartarus/Taloes.qmd
         - href: Tartarus/Kaiju.qmd
+        - href: Tartarus/Vampore.qmd
         - href: Tartarus/Kohitar_the_xenolith.qmd
     - id: Proteus
       title: "Proteus"

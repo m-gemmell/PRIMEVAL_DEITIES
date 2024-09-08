@@ -39,14 +39,14 @@ __STAR-BRAIN:__ Your mind is a mini-star. It is contained within a metal contain
 - Metal head (accessory)
 - -2 CREATIVE
 
-## Tartarus
+## Tartarus {#tartarus_traits}
 
 __GRAVITY LIFT:__ You can create 1 gravity lift per mission. These cylinders  of reverse gravity can be up to the diameter of a normal bicycle wheel. The cylinder extends straight up from the centre of the celestial body you are on. The reverse gravity has the same force as the normal gravity from the celestial body.  The gravity lift lasts till you dismiss it or till the end of the mission.
 
 - Stabilise and thrust boots (1 use, prevents fall damage)
 - +1 TACTICAL
 
-__KAIJU:__ You can transform into a kaiju no larger than a cargo container. When you choose this trait, also choose the form of your kaiju. You get the following when in your kaiju form:
+__KAIJU:__ Once per mission, you can transform into a kaiju no larger than a cargo container. When you choose this trait, also choose the form of your kaiju. You get the following when in your kaiju form:
 
 1. Your total FORCEFUL score is +4 and your total REFLEXIVE score is -1. Your TACTICAL and CREATIVE are unchanged
 2. You have a total HP of 20 and natural armor of 3
@@ -57,7 +57,7 @@ When you return to normal you are wearing and wielding your gear normally.
 Your form lasts till you release it, you fail a skill check, your kaiju form reaches 0HP, or till the end of the mission. 
 Any excess damage you take is suffered by your normal form. 
 
-When you return to normal, reduce your FORCEFUL score by 1. You regain 1 FORCEFUL at the end of a mission. You cannot transform into your kaiju form if your current FORCEFUL score is -1 or less.
+When you return to normal, reduce your FORCEFUL score by 1. You regain the 1 FORCEFUL at the end of a mission.
 
 Instead of another level up reward you can choose one of the following kaiju upgrades. Each can only be chosen once.
 
@@ -103,6 +103,14 @@ Use D8 for all future HP gains.
 
 - Heavy riot shield (2 ARMOR, equip as weapon)
 - -1 CREATIVE
+
+__VAMPIRE:__ You have a heart of iron that hungers for blood.
+Once per mission you must drink 5 pints of blood from a sentient creature or lose 1 HP.
+You gain the ability of Iron magnetic manipulation, able to move Iron and Iron alloys.
+With this ability you can levitate.
+
+- Iron skin (1 ARMOR, accessory)
+- -1 Tactical
 
 ## Proteus
 
