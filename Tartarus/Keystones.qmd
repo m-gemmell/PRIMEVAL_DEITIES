@@ -1,5 +1,5 @@
 ---
-title: "Vampore"
+title: "Keystones"
 editor: 
   markdown: 
     wrap: sentence
@@ -7,12 +7,15 @@ editor:
 
 ![](images/ironheart.png){width=30% fig-align="center"}
 
-[Kaiju](/Tartarus/Kaiju.qmd) are the massive creatures monsters created by Tartarus whilst __Demons__ are the more human variety. These __Demons__ are some of the creatures of folklore and myths that have been twisted by Tartarus into his own design.
+Keystones are pieces of Tartarus that it blesses and empowers the living with.
+Some of these are the creatures of folklore and myths that have been twisted by Tartarus into its own design.
 
-One such __Demon__ is the __Vampore__.
+# Vampore {#VAMPORE}
+
+One such __Keystone__ is the __Vampore__.
 In extremely rare cases a lump of iron that has tasted blood will hunger for more.
-The ore will attempt to bond with a sentient creature (with blood) that touches it.
-If successful the creature will become its Renfield.
+The ore will attempt to bond with a sentient blooded creature that touches it.
+If successful the creature will become its RENFIELD.
 Although the __Vampore__ can drink any blood, it can only give power to its __Renfield__ if it consumes blood from the same species as the __Renfield__.
 
 ## RENFIELD {#renfield}
@@ -52,7 +55,7 @@ Whilst exposed to this light the __VAMPIRE__ has the HP and stats of a __RENFIEL
 However, they still retain their __IRONHEART__ skill.
 Due to this they commonly descend into the [DOT](/tartarus.qmd#the-dot) either joining and/or feeding off [DOT raiders](/Tartarus/DOT_raiders.qmd).
 
-__DISARM (BOOS MOVE):__ The __VAMPIRE__ disarms all iron-based weapons.
+__DISARM (BOSS MOVE):__ The __VAMPIRE__ disarms all iron-based weapons.
 This involves disassembling guns and creating a magntised ball containing all the weapons.
 This ball dissipates when the __VAMPIRE__ reaches 0HP or releases this ability.
 
@@ -69,5 +72,37 @@ You gain 1D3 HP, keep track of how much HP you gain this way during a mission.
 Each time you heal you have a X-in-1D6 chance of gaining the [__VAMPIRE__ trait](/Catalog/traits.qmd#tartarus_traits), the weapon forming into an iron heart and replacing your heart.
 X equals the amount of HP you have gained in the current mission -4.
 
+# Bezoar {#BEZOAR}
 
+A Bezoar of Tartarus forms around a stone blessed by Tartarus.
+The creature in essence becomes the Bezoar and they can be regenerated with their mind, body, and spirit in tact.
+However, the Bezoar must be in a stomach and requires energy from food for regeneration.
+These Bezoars each have 10 HP and 3 ARMOR.
 
+If another creature eats an entity's Bezoar their is a 3-in-1D6 chance of the entity taking over the creature's body and regenerating into their original form.
+Otherwise, the creature gains the [__TROLLKIN__ trait](/Catalog/traits.qmd#tartarus_traits).
+
+## GOAT TROLL
+
+9 HP | TAC:-1 | FRC:+2 | RFX:+1 | CRE:-1
+
+- Humongous scrap club (2D6, FRAGILE)
+- Large horns (1D6 DAMAGE)
+- Large hunched humanoid goats (height of truck/lorry)
+- Ravenously hungry herbivores
+- Dim and friendly but forget others don't regenerate like them
+
+__PUGNACIOUS:__ Trolls see brutal combat as a family fun time activity due to their lack of pain and regeneration. At the start of their turn they regain 1D6 HP, even if they are at 0HP. Damage by fire or acid takes a day of rest and cutting of the affected parts to heal from. They only truly die if their BEZOAR is removed and destroyed.
+
+__FRAGILE (weapon tag):__ Breaks on a failure or partial success, or when a 6 is rolled on a damage dice. On a hit when it breaks remove the highest rolled damage dice.
+
+## TROLL VULTURE
+
+14 HP | TAC:1 | FRC:+1 | RFX:+1 | CRE:0
+
+- Claws (1D6 DAMAGE)
+- Unnaturally large vulture with the wingspan of a paraglider (12 metres)
+- Thick legs for the TROLLS to grip onto
+- Only eat dismembered TROLL parts
+
+__MOULTER:__ After eating the severed limbs of the fighting TROLLS normal vultures transformed into TROLL VULTURES. The TROLL VULTURES became massive and somewhat gained the TROLL's regenerative ability. They now act as the flying steeds of the TROLL's, a meal never long away. At the start of their turn they regain 1D3 HP, they die if they reach 0HP. They constantly moult but quickly grow back there feathers, creating a smokescreen of feathers when descending on the foes of the GOAT TROLLS.
