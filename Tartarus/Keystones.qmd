@@ -10,7 +10,7 @@ editor:
 Keystones are pieces of Tartarus that it blesses and empowers the living with.
 Some of these are the creatures of folklore and myths that have been twisted by Tartarus into its own design.
 
-# Vampore {#VAMPORE}
+## Vampore {#VAMPORE}
 
 One such __Keystone__ is the __Vampore__.
 In extremely rare cases a lump of iron that has tasted blood will hunger for more.
@@ -18,7 +18,8 @@ The ore will attempt to bond with a sentient blooded creature that touches it.
 If successful the creature will become its RENFIELD.
 Although the __Vampore__ can drink any blood, it can only give power to its __Renfield__ if it consumes blood from the same species as the __Renfield__.
 
-## RENFIELD {#renfield}
+### RENFIELD {#renfield}
+---
 
 4 HP | TAC:0 | FRC:+1 | RFX:0 | CRE:+1
 
@@ -32,7 +33,8 @@ Although the __Vampore__ can drink any blood, it can only give power to its __Re
 
 __Thrall:__ The __RENFIELD__ follows the orders of the __Vampore__ with the promise of power. They use their new physical and social charms to lure victims to quiet and unseen places. When they have fed the __Vampore__ 10 pints of blood from ten adults (same species as the __RENFIELD__) the __RENFIELD__ can fuse with the __Vampore__ to become a __Vampire__.
 
-## VAMPIRE {#vampire}
+### VAMPIRE {#vampire}
+---
 
 12 HP | 2 ARMOR | TAC:-1 | FRC:+1 | RFX:+1 | CRE:0
 
@@ -63,7 +65,7 @@ __INCENDIARY__ weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE
 
 __STUN__ weapon tag: Those damaged by this weapon cannot move or act until their current HP changes. ([F:UE](https://claymorerpgs.itch.io/fist))
 
-## VAMPORE BLADE
+### VAMPORE BLADE
 
 If the __VAMPORE__ is used to forge a bladed weapon the weapon will gain the following tag.
 
@@ -72,7 +74,7 @@ You gain 1D3 HP, keep track of how much HP you gain this way during a mission.
 Each time you heal you have a X-in-1D6 chance of gaining the [__VAMPIRE__ trait](/Catalog/traits.qmd#tartarus_traits), the weapon forming into an iron heart and replacing your heart.
 X equals the amount of HP you have gained in the current mission -4.
 
-# Bezoar {#BEZOAR}
+## Bezoar {#BEZOAR}
 
 A Bezoar of Tartarus forms around a stone blessed by Tartarus.
 The creature in essence becomes the Bezoar and they can be regenerated with their mind, body, and spirit in tact.
@@ -82,7 +84,8 @@ These Bezoars each have 10 HP and 3 ARMOR.
 If another creature eats an entity's Bezoar their is a 3-in-1D6 chance of the entity taking over the creature's body and regenerating into their original form.
 Otherwise, the creature gains the [__TROLLKIN__ trait](/Catalog/traits.qmd#tartarus_traits).
 
-## GOAT TROLL
+### GOAT TROLL
+---
 
 9 HP | TAC:-1 | FRC:+2 | RFX:+1 | CRE:-1
 
@@ -96,7 +99,8 @@ __PUGNACIOUS:__ Trolls see brutal combat as a family fun time activity due to th
 
 __FRAGILE (weapon tag):__ Breaks on a failure or partial success, or when a 6 is rolled on a damage dice. On a hit when it breaks remove the highest rolled damage dice.
 
-## TROLL VULTURE
+### TROLL VULTURE
+---
 
 14 HP | TAC:1 | FRC:+1 | RFX:+1 | CRE:0
 
