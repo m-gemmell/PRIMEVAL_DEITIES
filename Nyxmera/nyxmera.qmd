@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/Nyxmera.png){width=30% fig-align="center"}
+![](images/Nyxmera.png){width=200px fig-align="center"}
 
 Nyxmera is the light. All the celestial bodies are known as the eyes of Nyxmera, the sun, the grey moon, the purple moon, the gas planets, and the stars. With these Nyxmera watches, it wants to be intrigued. Something its followers, Suns of Nyxmera, are more than happy to facilitate.
 
@@ -16,9 +16,9 @@ Its logo represents the duality of the sky and Nyxmera’s eyes. On one side the
 ## Tenents
 
 - Observe and sow intrigue
-- Balance through duality
-- Manipulate and utilise others as you see fit
-- Eternal beauty is preferred to the transient
+- Balance via duality
+- Manipulate and use others
+- Eternal beauty over transience
 
 ## The Eyes of Nyxmera
 

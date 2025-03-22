@@ -7,7 +7,7 @@ website:
   favicon: /images/Gaia_favicon.png
   page-navigation: true
   title: "PRIMEVAL DEITIES"
-  description: "Primeval deity and other factions designed for the FIST RPG"
+  description: "Primeval deity and other factions designed for the PUML RPG"
 ##Navbar
   navbar:
     title: Primeval Deities
@@ -18,19 +18,19 @@ website:
       - text: "Overview"
         href: index.qmd
       - text: "History"
-        href: history.qmd
+        href: History/history.qmd
       - text: "Nyxmera"
-        href: nyxmera.qmd
+        href: Nyxmera/nyxmera.qmd
       - text: "Tartarus"
-        href: tartarus.qmd
+        href: Tartarus/tartarus.qmd
       - text: "Proteus"
-        href: proteus.qmd
+        href: Proteusproteus.qmd
       - text: "Gaia"
-        href: gaia.qmd
+        href: Gaia/gaia.qmd
       - text: "Missions"
-        href: missions.qmd
+        href: Missions/missions.qmd
       - text: "Catalog"
-        href: catalog.qmd
+        href: Catalog/catalog.qmd
 ###Navbar right
     right:
     # List of icons: https://icons.getbootstrap.com/
@@ -62,7 +62,7 @@ website:
       collapse-level: 2
       align: left
       contents:
-        - href: history.qmd
+        - href: History/history.qmd
         - section: "Biways"
           contents:
           - href: History/Biways.qmd
@@ -92,7 +92,7 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: nyxmera.qmd
+        - href: Nyxmera/nyxmera.qmd
         - href: Nyxmera/Suns.qmd
         - href: Nyxmera/Troops.qmd
         - href: Nyxmera/Doppelganger_Dunes.qmd
@@ -104,7 +104,7 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: tartarus.qmd
+        - href: Tartarus/tartarus.qmd
         - href: Tartarus/Dotters.qmd
         - href: Tartarus/DOT_raiders.qmd
         - href: Tartarus/Kraken.qmd
@@ -117,7 +117,7 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: proteus.qmd
+        - href: Proteus/proteus.qmd
         - href: Proteus/Proteans.qmd
         - href: Proteus/Triton_n_Delta.qmd
         - href: Proteus/Refraction_Sports.qmd
@@ -129,7 +129,7 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: gaia.qmd
+        - href: Gaia/gaia.qmd
         - href: Gaia/TAG.qmd
         - href: Gaia/Skyuss.qmd
         - href: Gaia/CGC.qmd
@@ -141,7 +141,7 @@ website:
       contents:
         - section: "Intro"
           contents:
-            - href: missions.qmd
+            - href: Missions/missions.qmd
         - section: "D.R.Ops"
           contents:
             - href: Missions/M-PLAY.qmd
@@ -167,7 +167,7 @@ website:
       style: "floating"
       align: left
       contents:
-        - href: catalog.qmd
+        - href: Catalog/catalog.qmd
         - href: Catalog/traits.qmd
         - href: Catalog/weapon_tags.qmd
         - href: Catalog/units.qmd

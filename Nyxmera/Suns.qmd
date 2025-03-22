@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/suns_of_nyxmera.png){width=30% fig-align="center"}
+![](images/suns_of_nyxmera.png){width=200px fig-align="center"}
 
 Followers of Nyxmera are called its suns. 
 They are varied and include navigators, story tellers, space enthusiasts, and entertainers. 
@@ -15,7 +15,9 @@ The perfect Suns will do both good and evil. They must amuse Nyxmera to be rewar
 
 ## SUN OF NYXMERA {#sun_nyxmera}
 
-(3 HP, CHOKE 3: Stare and applaud)
+3 HP | EYES:+1 | JAWS:-1 | LIMBS:-1 | NERVES:-1
+
+PANIC 3: Stare and applaud
 
 - Large mobile phone
 - Camera
@@ -28,7 +30,9 @@ They will call in further SUNS OF NYXMERA if they see a dangerous event possibly
 
 ## MOUTH OF NYXMERA {#mouth_nyxmera}
 
-(3 HP, CHOKE 4: Escape from current situation and lie low)
+3 HP | EYES:+2 | JAWS:-1 | LIMBS:-1 | NERVES:0
+
+PANIC 4: Escape & lie low
 
 - Laser finger gun (1D6 DAMAGE)
 - Hard light shard (Teleport user to a pre designated place within 1 mile, 1 use).

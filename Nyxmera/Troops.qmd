@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/nyxmera_troppers.png){width=30% fig-align="center"}
+![](images/nyxmera_troppers.png){width=200px fig-align="center"}
 
 Troops used by Nyxmera based organisations.
 Used for a variety of reasons including body guards, security, and mercenaries.
@@ -13,6 +13,8 @@ Used for a variety of reasons including body guards, security, and mercenaries.
 ## NYXMERA TROOPER {#nyxmera_tropper}
 
 (3 HP, 2D6 appear)
+
+3 HP | 1 ARMOR | 2D6 appear | EYES:+1 | JAWS:0 | LIMBS:-1 | NERVES:+1
 
 - Semi-Auto Laser rifle (Choose 1 of 2D6 DAMAGE, 1D6 DAMAGE for other users)
 - Meteorite scrap metal armor (1 ARMOR)
@@ -24,6 +26,8 @@ __DUALITY:__ These troopers embody the day and night extremes of Nyxmera. They w
 ## NYXMERA LIGHT TROOPER {#nyxmera_light_tropper}
 
 (3 HP, 1D6 appear)
+
+3 HP | 2 ARMOR | 1D6 appear | EYES:+1 | JAWS:+1 | LIMBS:-1 | NERVES:-1
 
 - Laser shotgun (1D6+1 DAMAGE)
 - 1D6 stun grenades (temporary blinding, one use)
@@ -38,7 +42,7 @@ __Hardlight wall generator__ weapon: A heavy 2 handed device that can create a 2
 
 ## NYXMERA DARK TROOPER {#nyxmera_dark_trooper}
 
-(6 HP)
+6 HP | 1 ARMOR | 1D6 appear | EYES:+1 | JAWS:0 | LIMBS:+1 | NERVES:0
 
 - Meteorite sword (1D6+1 DAMAGE, LIGHT)
 - Night vision goggles (see at night)

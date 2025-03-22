@@ -7,11 +7,11 @@ There are too many oral languages and no consensus was made for a lingua franca 
 Instead all members of the military learn a specialised gesture based language based on hand and arm signals and a mixture of Asian sign languages.
 This allows one member of a team who understands the spoken language of the current officer in charge to distribute the commands on the field.
 
-# SAE army
+## SAE army
 
-## SAE INFANTRY {#sae_infantry}
+### SAE INFANTRY {#sae_infantry}
 
-(3 HP, 2D6 appear)
+3 HP | 1 ARMOR | 2D6 appear | EYES:0 | JAWS:0 | LIMBS:0 | NERVES:+1
 
 - [Type 63 assault rifle](https://en.wikipedia.org/wiki/Type_63_assault_rifle) (1D6+1 DAMAGE)
 - [Pistol Auto 9mm 1A](https://en.wikipedia.org/wiki/Pistol_Auto_9mm_1A) (1D6 DAMAGE)

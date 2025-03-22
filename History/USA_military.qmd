@@ -2,11 +2,11 @@
 title: "USA military"
 ---
 
-# USA Navy
+## USA Navy
 
-## CYBORG DOLPHIN {#cyborg_dolphin}
+### CYBORG DOLPHIN {#cyborg_dolphin}
 
-(4 HP)
+4 HP | 1 ARMOR | EYES:+1 | JAWS:0 | LIMBS:+2 | NERVES:+1
 
 -   Spear mouth guard (1D6 DAMAGE)
 -   Laser (1D6+1 DAMAGE) works in air and water
@@ -18,9 +18,9 @@ title: "USA military"
 
 **SOCIAL:** CYBORG DOLPHINS are prized due to their communication skills. Humans can orally speak with them if they connect to their TCM. However, Dolphins can only use and understand single syllable words. They will listen to their rider if they are respected and treated well.
 
-## HUMPBACK WHALE SUBMERSIBLE {#humpback_sub}
+### HUMPBACK WHALE SUBMERSIBLE {#humpback_sub}
 
-(20 HP)
+20 HP | 1 ARMOR | EYES:0 | JAWS:+2 | LIMBS:-1 | NERVES:-1
 
 -   4 torpedoes (1D6+2 DAMAGE)
 -   Sparse titanium plates (1 ARMOR)
@@ -30,9 +30,9 @@ title: "USA military"
 
 **AMPHIBIOUS**: The true purpose of the submersible is to emerge from the waters and become a ground borne weapons platform. Once out of the water and with some time it deploys its gear from its hump crate. It retains its HP but becomes a HUMPBACK WHALE WEAPONS PLATFORM.
 
-## HUMPBACK WHALE WEAPONS PLATFORM {#humpback_plat}
+### HUMPBACK WHALE WEAPONS PLATFORM {#humpback_plat}
 
-(20 HP)
+20 HP | 3 ARMOR | EYES:-2 | JAWS:+2 | LIMBS:-1 | NERVES:-1
 
 -   Forward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)
 -   Fully deployed titanium plating (3 ARMOR), supports whale's weight

@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/DOT_raiders.png){width=30% fig-align="center"}
+![](images/DOT_raiders.png){width=200px fig-align="center"}
 
 Settlements of people who live in the DOT. They raid the surface for food and supplies. Many also free modern day slaves and carry out prison breaks.
 
@@ -14,7 +14,7 @@ These are made with Iron oxide inks.
 
 ## TARTARUS RAIDER {#raider}
 
-3 HP | 2D6 appear | 1 ARMOR | TAC:-1 | FRC:+1 | RFX:+1 | CRE:0
+3 HP | 2D6 appear | 1 ARMOR | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:0
 
 - [M1911](https://en.wikipedia.org/wiki/M1911_pistol) pistol (1D6 DAMAGE)
 - Obsidian blade (1D6 DAMAGE)
@@ -28,7 +28,7 @@ __ANTI-MATERIAL__ weapon tag: Deals double DAMAGE to vehicles and structures; cu
 
 ## TARTARUS MUTANT {#tartarus_mutant}
 
-5 HP | TAC:-1 | FRC:+1 | RFX:+1 | CRE:+1
+5 HP | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:+1
 
 - [MAS-36](https://en.wikipedia.org/wiki/MAS-36_rifle) bolt-action rifle (1D6+1 DAMAGE)
 - Tattered clothing barely covering their portfolio of scars
@@ -48,7 +48,7 @@ __MELTDOWN (BOSS MOVE):__ As a last resort and with a well choreographed lead up
 
 ## TARTARUS FIRE WARRIOR {#fire_warrior}
 
-6 HP | 1 ARMOR | TAC:+1 | FRC:+1 | RFX:0 | CRE:0
+6 HP | 1 ARMOR | EYES:+1 | JAWS:+1 | LIMBS:0 | NERVES:-1
 
 - Flame thrower (1D6 + 1 DAMAGE, INCENDIARY)
 - Napalm grenade (1D6 + 2 DAMAGE, 1 use)
@@ -66,7 +66,7 @@ __INCENDIARY__ weapon tag: When damage is dealt, this weapon also deals 2 DAMAGE
 
 ## TARTARUS MAGNETIC SLINGER {#magnetic_slinger}
 
-4 HP | TAC:+2 | FRC:0 | RFX:0 | CRE:0
+4 HP | EYES:+2 | JAWS:0 | LIMBS:0 | NERVES:-1
 
 - Long range gauss rifle, requires a bright and loud charge up time (1D6+2 DAMAGE, ARMOR PIERCING)
 - Tripwire grenade (1D6 + 1 DAMAGE, 1 use)
@@ -81,7 +81,7 @@ __ARMOR-PIERCING__ weapon tag: Attacks with this weapon ignore ARMOR bonuses gra
 
 ## SCRAPPER {#scrapper}
 
-3 HP | 1 ARMOR | TAC:+2 | FRC:+1 | RFX:-1 | CRE:+1
+3 HP | 1 ARMOR | EYES:+2 | JAWS:+1 | LIMBS:-1 | NERVES:0
 
 - Oversized wrench (1D6 DAMAGE, PERCUSSIVE-MAINTENANCE)
 - Scrap cannon (1D6 DAMAGE)

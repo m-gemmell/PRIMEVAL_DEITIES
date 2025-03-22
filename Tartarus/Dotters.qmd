@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/dotters.png){width=30% fig-align="center"}
+![](images/dotters.png){width=200px fig-align="center"}
 
 Dotters of Tartarus come in 2 main flavours, the surface dwellers and the DOT dwellers. 
 
@@ -20,7 +20,9 @@ There is a dark side to Tartarus and its Dotters, greed. This greed manifests th
 
 ## DOTTER OF TARTARUS {#dotter}
 
-(3 HP, CHOKE 4: Find the nearest hole to cower in)
+3 HP | EYES:-1 | JAWS:+1 | LIMBS:0 | NERVES:-1
+
+PANIC 4: Find the nearest hole to cower in
 
 - Climbing pickaxe (3 DAMAGE)
 - Spelunking gear
@@ -32,7 +34,9 @@ __EXPLORER:__ These followers of Tartarus are always on the lookout for entrance
 
 ## ELDER DOTTER OF TARTARUS {#elder_dotter}
 
-(3 HP, CHOKE 4: Escape from current situation)
+3 HP | EYES:0 | JAWS:+1 | LIMBS:-1 | NERVES:+1
+
+PANIC 4: Escape from current situation)
 
 - Rock fists (1D6 DAMAGE)
 - Rock armor (2 ARMOR)

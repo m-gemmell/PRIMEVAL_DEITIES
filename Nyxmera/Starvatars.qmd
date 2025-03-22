@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/starvatar.png){width=30% fig-align="center"}
+![](images/starvatar.png){width=200px fig-align="center"}
 
 A Starvatar of Nyxmera is the light of a star. When it exists the star’s light can no longer be seen in the night sky as it now exists as a hard light being. Each Starvatar will take the name of its star or constellation.
 
@@ -20,7 +20,7 @@ Powerful Starvatars can create temporary structures made of hard light
 
 ## STARVATAR {#starvatar}
 
-(9 HP)
+9 HP \| 2 ARMOR | EYES:+1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:-1
 
 - Starlight rifle (1D6+2 DAMAGE, MEDICAL)
 - Starlight spear (1D6+2 DAMAGE, UNSTABLE)
@@ -34,7 +34,7 @@ __UNSTABLE__ weapon tag: Can be set to overload to deal triple DAMAGE once; expl
 
 ## PURPLE MOON OF NYXMERA {#purple_moon}
 
-(50 HP)
+50 HP \| 3 ARMOR | EYES:+3 \| JAWS:+2 \| LIMBS:0 \| NERVES:+1
 
 - Moon headbutt (5D6 DAMAGE)
 - Gravitational crush (3D6 DAMAGE)

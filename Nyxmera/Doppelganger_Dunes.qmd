@@ -34,7 +34,7 @@ Suggested names of Doppelgänger Dunes employees in the area include:
 
 ## SKYBOUND DOPPELGANGER {#skybound_doppelganger}
 
-3 HP \| 0 ARMOR \| TAC:+2 \| FRC:0 \| RFX:+1 \| CRE:-1
+3 HP \| 0 ARMOR | 1D6 appear \| EYES:+2 \| JAWS:0 \| LIMBS:+1 \| NERVES:-1
 
 - Laser pistol (1D6 DAMAGE)
 - Aeolian whistle
@@ -64,7 +64,7 @@ This gun is designed to take out ground based targets and is controlled by the p
 
 ## SANDBOUND DOPPELGANGER
 
-4 HP \| 1 ARMOR \| TAC:+1 \| FRC:+1 \| RFX:0 \| CRE:-1
+4 HP \| 1 ARMOR | 2D6 appear \| EYES:+1 \| JAWS:+1 \| LIMBS:0 \| NERVES:-1
 
 - Laser rifle (1D6+1 DAMAGE)
 - Combat shovel (3 DAMAGE)
@@ -80,7 +80,7 @@ This allows them to easily outmanoeuvre foes during close range combats.
 
 ## SOL: DOPPELGANGER OF DESERTS
 
-9 HP \| 1 ARMOR \| TAC:+2 \| FRC:+1 \| RFX:0 \| CRE:0
+9 HP \| 1 ARMOR \| EYES:+2 \| JAWS:+1 \| LIMBS:0 \| NERVES:0
 
 - Laser cannon (1D6+2 DAMAGE)
 - Night blade (1D6 DAMAGE, SHREDDER)

@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/ironheart.png){width=30% fig-align="center"}
+![](images/ironheart.png){width=300px fig-align="center"}
 
 Keystones are pieces of Tartarus that it blesses and empowers the living with.
 Some of these are the creatures of folklore and myths that have been twisted by Tartarus into its own design.
@@ -19,9 +19,8 @@ If successful the creature will become its RENFIELD.
 Although the __Vampore__ can drink any blood, it can only give power to its __Renfield__ if it consumes blood from the same species as the __Renfield__.
 
 ### RENFIELD {#renfield}
----
 
-4 HP | TAC:0 | FRC:+1 | RFX:0 | CRE:+1
+4 HP | EYES:0 | JAWS:+1 | LIMBS:0 | NERVES:+1
 
 - Flunitrazepam powder, can be added to a beverage to knock-out the consumer (1 use)
 - A large syringe with dual function
@@ -34,9 +33,8 @@ Although the __Vampore__ can drink any blood, it can only give power to its __Re
 __Thrall:__ The __RENFIELD__ follows the orders of the __Vampore__ with the promise of power. They use their new physical and social charms to lure victims to quiet and unseen places. When they have fed the __Vampore__ 10 pints of blood from ten adults (same species as the __RENFIELD__) the __RENFIELD__ can fuse with the __Vampore__ to become a __Vampire__.
 
 ### VAMPIRE {#vampire}
----
 
-12 HP | 2 ARMOR | TAC:-1 | FRC:+1 | RFX:+1 | CRE:0
+12 HP | 2 ARMOR | EYES:-1 | JAWS:+2 | LIMBS:+1 | NERVES:0
 
 - Goldschmidt's fervour (Sword, 1D6+1 DAMAGE, INCENDIARY)
 - Renfield's lullaby (Scalpel, 3 DAMAGE, STUN)
@@ -85,9 +83,8 @@ If another creature eats an entity's Bezoar their is a 3-in-1D6 chance of the en
 Otherwise, the creature gains the [__TROLLKIN__ trait](/Catalog/traits.qmd#tartarus_traits).
 
 ### GOAT TROLL
----
 
-9 HP | TAC:-1 | FRC:+2 | RFX:+1 | CRE:-1
+9 HP | EYES:-1 | JAWS:+2 | LIMBS:+1 | NERVES:-1
 
 - Humongous scrap club (2D6, FRAGILE)
 - Large horns (1D6 DAMAGE)
@@ -100,9 +97,8 @@ __PUGNACIOUS:__ Trolls see brutal combat as a family fun time activity due to th
 __FRAGILE (weapon tag):__ Breaks on a failure or partial success, or when a 6 is rolled on a damage dice. On a hit when it breaks remove the highest rolled damage dice.
 
 ### TROLL VULTURE
----
 
-14 HP | TAC:1 | FRC:+1 | RFX:+1 | CRE:0
+14 HP | EYES:+1 | JAWS:+1 | LIMBS:+1 | NERVES:0
 
 - Claws (1D6 DAMAGE)
 - Unnaturally large vulture with the wingspan of a paraglider (12 metres)

@@ -6,7 +6,7 @@ editor:
 ---
 
 <center>
-![](images/SOL_EYES.png){style="width:200px; background-color: white; border-radius:15px"}
+![](images/SOL_EYES.png){style="width:300px"}
 </center>
 
 Ablation occurs to meteoroids as they enter the earth's atmosphere.
@@ -40,4 +40,6 @@ Sol is able to regrow his eyes in one day.
 
 The Doppelganger still retains a lot of its personality but works whole heartedly to benefit Sol and will be called Sol.
 It also gains powers related to given title by Sol.
+
+- [SOL:DOPPELGANGER OF DESERTS](/Nyxmera/Doppelganger_Dunes.qmd#sol-doppelganger-of-deserts) leads the [Doppelgänger Dunes](/Nyxmera/Doppelganger_Dunes.qmd)
 

@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/Tartarus.png){width=30% fig-align="center"}
+![](images/Tartarus.png){width=200px fig-align="center"}
 
 
 Tartarus is the ground we live on. 
@@ -19,10 +19,10 @@ It wants to unleash its power with no concern for others.
 
 ## Tenents
 
-- Unleash your power to create your own domain
-- Imprisonment is never permitted
-- Make good the bounties of Tartarus
-- Destruction allows creation and creation allows destruction
+- Unleash your power!
+- Never imprison!
+- Seize and consume!
+- Destroy to create to destory!
 
 ## The DOT
 

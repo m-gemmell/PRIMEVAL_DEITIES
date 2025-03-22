@@ -2,7 +2,7 @@
 title: "The Moon"
 ---
 
-![](./images/mooner_flag.png){width=30% fig-align="center"}
+![](./images/mooner_flag.png){width=300px fig-align="center"}
 
 Space travel was expedited due to the world governments working together to carry it out. The Japanese refugees took this as an opportunity to create a new home as the first settlers on the moon at the start of the 1960s. They are now known as Mooners.
 
@@ -10,7 +10,7 @@ They have 2 major metropolises there called **Usagi** (Rabbit) and **Kaguya**. T
 
 ## CARGO MECHA {#cargo_mecha}
 
-(10 HP)
+10 HP | 2 ARMOR
 
 -   Stainless steel plating (2 ARMOR)
 -   Self destruct, 10 second timer (2D6 DAMAGE)
