@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/triton_and_delta.png){width=30% fig-align="center"}
+![](images/triton_and_delta.png){width=200px fig-align="center"}
 
 A large company developing and selling drugs, both licit and illicit. It is an open secret they sell illicit drugs with many knowing Triton as the licit side and Delta as the Illicit side. They primarily create new drugs charging many local companies to produce, and distribute.
 
@@ -13,7 +13,9 @@ This is not only led by Proteans but many Gaians involved in health services. Ho
 
 ## TRITON & DELTA SELLER {#triton_delta_seller}
 
-(3 HP, CHOKE 5: Bout of identity crisis)
+3 HP | 1 ARMOR | EYES:-1 | JAWS:0 | LIMBS:+1 | NERVES:0
+
+PANIC 5: Bout of identity crisis)
 
 - [SIG Sauer P230](https://en.wikipedia.org/wiki/SIG_Sauer_P230) pistol (1D6 DAMAGE)
 - Hidden bulletproof vest (1 ARMOR)
@@ -28,7 +30,7 @@ If killed they will resurrect as the other persona.
 
 ## TRITON & DELTA ENFORCER {#triton-delta-enforcer}
 
-(4 HP)
+4 HP | 1 ARMOR | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:-1
 
 - [MAC-11](https://en.wikipedia.org/wiki/MAC-11) submachine gun (1D6 DAMAGE)
 - [AMT AutoMag III](https://en.wikipedia.org/wiki/AMT_AutoMag_III) hand cannon (1D6+1 DAMAGE)

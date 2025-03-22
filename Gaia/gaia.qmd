@@ -5,8 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/Gaia.png){width=30% fig-align="center"}
-
+![](images/Gaia.png){width=200px fig-align="center"}
 
 Life was created by the combination of light, earth, and water. Gaia is life and yearns for unity. Its followers, Gaians, interpret this in many ways. As always unity generates division.
 
@@ -17,9 +16,9 @@ Gaia is frustrated by how easily others mix with the brownian chaos of Proteus.
 ## Tenents
 
 - Strive for unification
-- Life is not chaos but a complex web of rules
-- Use the emotions within you and others as a strength
 - Lead and they will follow, rule and they will obey
+- Life is not chaos but a complex web of rules
+- Use the emotions wihtin you and others as strength
 
 ## Blessings of cognition
 

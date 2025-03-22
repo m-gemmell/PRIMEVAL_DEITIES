@@ -5,6 +5,9 @@ editor:
     wrap: sentence
 ---
 
+
+![](images/CGC.png){width=200px fig-align="center"}
+
 The CGC is the Centre for Genomics and Cloning.
 They are a worldwide institute with a focus on healthcare.
 They hope to fix all the world's ailments with genetic engineering and if that doesn't work they clone new body parts.
@@ -14,7 +17,9 @@ Unknown to the public, the company was inspired by the mutations in the DOT and 
 
 ## CGC SCIENTIST {#scientist}
 
-(2 HP, CHOKE 4: Consumes their CGC serum)
+2 HP | EYES:+1 \| JAWS:-2 \| LIMBS:0 \| NERVES:-1
+
+PANIC 4: Consumes their CGC serum
 
 - Lab coat
 - Lab book full of encrypted jargon
@@ -29,7 +34,7 @@ Within their lab and with the right price the CGC SCIENTIST can swap a character
 
 ## CGC SECURITY {#security}
 
-(3 HP, 1D6 appear)
+3 HP | 1 ARMOR | 1D6 appear | EYES:-1 \| JAWS:0 \| LIMBS:0 \| NERVES:-1
 
 - Bioresonance stun rifle (NON-LETHAL)
 - Cattle prod (PRIMAL-FEAR)
@@ -56,18 +61,18 @@ After ten minutes the character's stats and health are returned to normal and th
 ## CGC body serum {#cgc_body_serum}
 
 A super soldier serum.
-The consumer gains +1 to the FORCEFUL and REFLEXIVE attributes.
-However, they gain -1 to the TACTICAL and CREATIVE attributes.
+The consumer gains +1 to the JAWS and LIMBS attributes.
+However, they gain -1 to the EYES and NERVES attributes.
 
 ## CGC mind serum {#cgc_mind_serum}
 
 A super scientist serum.
-The consumer gains +1 to the TACTICAL and CREATIVE attributes.
-However, they gain -1 to the FORCEFUL and REFLEXIVE attributes.
+The consumer gains +1 to the EYES and NERVES attributes.
+However, they gain -1 to the JAWS and LIMBS attributes.
 
 ## FEMALE HORSESHOE CRAB MUTANT {#female_horseshoe_crab_mutant}
 
-(4 HP, 1D6 appear)
+4 HP | 1 ARMOR | 1D6 appear | EYES:-1 \| JAWS:-1 \| LIMBS:0 \| NERVES:0
 
 - Blade arms (1D6 DAMAGE)
 - Carapace (1 ARMOR)
@@ -81,7 +86,7 @@ Anyone who consumes the blood or flesh of the FEMALE HORSESHOE CRAB MUTANT will 
 
 ## MALE HORSESHOE CRAB MUTANT {#male_horseshoe_crab_mutant}
 
-(2 HP, 3D6 appear)
+2 HP | 1 ARMOR | 3D6 appear | EYES:-3 \| JAWS:-2 \| LIMBS:-2 \| NERVES:-3
 
 - Small claw (1D6-3 DAMAGE, ignore negative DAMAGE)
 - Carapace (1 ARMOR)
@@ -96,7 +101,7 @@ Consuming the meat of one MALE HORSESHOE CRAB MUTANT will heal +1D6 HP as long a
 
 ## BROODING HORSESHOE CRAB MUTANT {#brooding_horseshoe_crab_mutant}
 
-(15 HP)
+15 HP | 2 ARMOR | EYES:+2 \| JAWS:+2 \| LIMBS:+2 \| NERVES:+2
 
 - Large claws (1D6 + 1 DAMAGE)
 - Black carapace with deep red cracks and star like eyes lining it (2 ARMOR)

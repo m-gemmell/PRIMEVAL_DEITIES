@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/Proteus.png){width=30% fig-align="center"}
+![](images/Proteus.png){width=150px fig-align="center"}
 
 The elusive ever adaptable deity of water. 
 Proteus goes with the flow, loathing stagnation and overworking. 
@@ -21,10 +21,10 @@ However Proteus requires balance, it is frozen in the absence of heat and evapor
 
 ## Tenents
 
-- Flow like water and you can adapt to all situations
-- Above all respect the autonomy of others
-- Allow others to shape you and you will surely shape them in turn
-- Patience allows for great deeds
+- Flow like water to adapt
+- Allow others to shape you
+- Respect others autonomy
+- Perserverance allows great deeds
 
 ## Holy water
 

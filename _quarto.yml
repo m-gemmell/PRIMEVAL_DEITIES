@@ -24,7 +24,7 @@ website:
       - text: "Tartarus"
         href: Tartarus/tartarus.qmd
       - text: "Proteus"
-        href: Proteusproteus.qmd
+        href: Proteus/proteus.qmd
       - text: "Gaia"
         href: Gaia/gaia.qmd
       - text: "Missions"

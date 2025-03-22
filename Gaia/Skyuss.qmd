@@ -5,7 +5,7 @@ editor:
     wrap: sentence
 ---
 
-![](images/snow_worm.png){width=30% fig-align="center"}
+![](images/snow_worm.png){width=200px fig-align="center"}
 
 A cult who worship the great worm Skyuss.
 They wish to feed the snow worms by any means.
@@ -16,7 +16,9 @@ The cult uses this to cause night time attacks where they would like through the
 
 ## INCUBATOR CULTIST OF SKYUSS {#skyuss_incubator}
 
-(3 HP, Choke 5: see INCUBATION trait)
+3 HP | EYES:-1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:-1
+
+PANIC 5: see INCUBATION trait
 
 - Knife (worst of 2D6 damage)
 - Wrapped up in fur clothing
@@ -26,7 +28,7 @@ __INCUBATION__: These cultists are so devout to the rising of Skyuss they have g
 
 ## MUTATED CULTIST OF SKYUSS {#skyuss_mutated_cultist}
 
-(3 HP)
+3 HP | 1 ARMOR | EYES:0 \| JAWS:+1 \| LIMBS:-1 \| NERVES:0
 
 - [M1 Thompson](https://en.wikipedia.org/wiki/Thompson_submachine_gun) submachine gun (1D6 damage)
 - Large circular maw of diamond teeth for crushing (1D6 + 1 damage)
@@ -38,7 +40,9 @@ __DIAMOND-BONED__: These cultists ingested snow worm eggs to gain power. These m
 
 ## DEACON OF SKYUSS {#skyuss_deacon}
 
-(6 HP, Choke 4: Activate their Aurora generator on their position)
+6 HP | 2 ARMOR | EYES:0 \| JAWS:+2 \| LIMBS:0 \| NERVES:+1
+
+PANIC 4: Activate their Aurora generator on their position
 
 - Aurora gun (1D6+2 damage, STUN)
 - A holy figure covered in purple robes
@@ -61,7 +65,7 @@ The device also sends out an ultrasonic frequency that deters snow worms from ge
 
 ## PREMATURE SNOW WORM {#premature_worm}
 
-(3 HP)
+3 HP | EYES:-2 \| JAWS:0 \| LIMBS:-1 \| NERVES:-3
 
 - Bite (1D6-2 damage, min 1)
 - 2 foot purple worms with leach-like mouths
@@ -78,7 +82,7 @@ No other premature snow worm is able to attach to a victim whilst one is leached
 
 ## JUVENILE SNOW WORM {#juvenile_worm}
 
-(6 HP)
+6 HP | 1 ARMOR | EYES:0 \| JAWS:+2 \| LIMBS:0 \| NERVES:-2
 
 - Large circular maw of diamond teeth for crushing (1D6 + 1 damage)
 - Covered in diamond rods and purple scales (1 ARMOR)
@@ -94,7 +98,7 @@ __TUNNELLER__: The snow worm keeps warm in cold climes by efficiently digging th
 
 ## ADULT SNOW WORM {#adult_worm}
 
-(15 HP)
+15 HP | 2 ARMOR | EYES:0 \| JAWS:+3 \| LIMBS:0 \| NERVES:-2
 
 - Large circular maw of diamond teeth for crushing (1D6 + 2 damage)
 - Covered in thick diamond rods and purple scales (2 ARMOR)

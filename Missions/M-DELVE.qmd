@@ -92,7 +92,7 @@ Once in deep enough they can only go forward.
 Normal sized characters can only bring through one weapon, one piece of body armor, and one other piece of gear (grenade, medkit etc).
 They cannot bring helmets, shields, or other large rigid items.
 
-## The Relief (#relief)
+## The Relief {#relief}
 
 A dark chamber with no magma and no light.
 
