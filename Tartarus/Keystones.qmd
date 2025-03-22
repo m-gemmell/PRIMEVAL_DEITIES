@@ -50,10 +50,10 @@ If the __VAMPIRE__ is brought to 0HP they will rise again.
 This can be prevented by removing their ore heart or destroying their body so no living flesh is left around the ore heart.
 
 __ASTROPHOBIA:__ The light from the sun and moons weaken the __VAMPIRE__.
-These are [The Eyes of Nyxmera](/nyxmera.qmd#the-eyes-of-nyxmera), sworn enemy of __Tartarus__.
+These are [The Eyes of Nyxmera](/Nyxmera/nyxmera.qmd#the-eyes-of-nyxmera), sworn enemy of __Tartarus__.
 Whilst exposed to this light the __VAMPIRE__ has the HP and stats of a __RENFIELD__ and they cannot use their BOSS MOVES.
 However, they still retain their __IRONHEART__ skill.
-Due to this they commonly descend into the [DOT](/tartarus.qmd#the-dot) either joining and/or feeding off [DOT raiders](/Tartarus/DOT_raiders.qmd).
+Due to this they commonly descend into the [DOT](/Tartarus/tartarus.qmd#the-dot) either joining and/or feeding off [DOT raiders](/Tartarus/DOT_raiders.qmd).
 
 __DISARM (BOSS MOVE):__ The __VAMPIRE__ disarms all iron-based weapons.
 This involves disassembling guns and creating a magntised ball containing all the weapons.

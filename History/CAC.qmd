@@ -6,7 +6,7 @@ Coalition of African Countries. All of Africa.
 
 ## Primary deity
 
-The primary deity of the CAC is [Tartarus](/tartarus.qmd).
+The primary deity of the CAC is [Tartarus](/Tartarus/tartarus.qmd).
 
 ## Positives
 

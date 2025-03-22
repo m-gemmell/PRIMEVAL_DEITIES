@@ -59,7 +59,7 @@ This however leads to a Kaiju and Mecha throwdown.
 
 ## The Primeval Polytheist's Seasonal Schemes
 
-[Dr. Petra Pufferfish](Gaia/Dr_Petra_Pufferfish.qmd) is the Primeval Polytheist.
+[Dr. Petra Pufferfish](/Gaia/Dr_Petra_Pufferfish.qmd) is the Primeval Polytheist.
 She plans to control the world with her three lieutenants; [Blanchard](/Proteus/Blanchard_the_hyperborean.qmd) the Hyperborean, Pudding the Ablated, and Mango the Xenolith.
 These missions involve stopping their plans for world domination.
 

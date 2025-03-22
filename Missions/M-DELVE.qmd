@@ -10,7 +10,7 @@ editor:
 ## Mission
 
 Due to an earthquake a new cave has appeared at the extinct volcano near the village [Warboys](https://en.wikipedia.org/wiki/Warboys#Geology), England.
-This cave has an entrance to the [DOT](/tartarus.qmd) and [DOT raiders](/Tartarus/DOT_raiders.qmd) have recently ransacked the town.
+This cave has an entrance to the [DOT](/Tartarus/tartarus.qmd) and [DOT raiders](/Tartarus/DOT_raiders.qmd) have recently ransacked the town.
 
 The military are currently setting up a quarantine and building a protective wall around the cave. This takes time so they want the raider trouble taken care of at the source.
 

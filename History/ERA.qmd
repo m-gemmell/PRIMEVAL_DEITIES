@@ -6,7 +6,7 @@ The European & Russian Alliance. Europe & Russia.
 
 ## Primary deity
 
-The primary deity of the ERA is [Proteus](#/proteus.qmd).
+The primary deity of the ERA is [Proteus](/Proteus/proteus.qmd).
 
 ## Positives
 

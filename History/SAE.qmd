@@ -8,7 +8,7 @@ The Supreme Asian Empire. All countries of the Asian continent except Russia wit
 
 ## Primary deity
 
-The primary deity of the SAE is [Nyxmera](/nyxmera.qmd).
+The primary deity of the SAE is [Nyxmera](/Nyxmera/nyxmera.qmd).
 
 ## Positives
 

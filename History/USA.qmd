@@ -6,7 +6,7 @@ The United States of America. The number one power consisting of all the America
 
 ## Primary deity
 
-The primary deity of the USA is [Gaia](/gaia.qmd).
+The primary deity of the USA is [Gaia](/Gaia/gaia.qmd).
 
 ## Positives
 

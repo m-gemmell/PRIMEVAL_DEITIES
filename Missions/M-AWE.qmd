@@ -14,7 +14,7 @@ Snow sport enthusiasts are being found dead with shark like bites at the Aurora 
 Keep the information in this section unknown to the players unless you want to drop them straight into the action. 
 
 An abandoned radio tower outpost in the mountains has been taken over by the [Cult of Skyuss](/Gaia/Skyuss.qmd).
-They are an extreme branch of [Gaians](/gaia.qmd).
+They are an extreme branch of [Gaians](/Gaia/gaia.qmd).
 They are breeding snow worms and experimenting on their use.
 
 The [DEACON OF SKYUSS](/Gaia/Skyuss.qmd#skyuss_deacon) (__Anne Lida__) has been testing out the [Aurora generator](/Gaia/Skyuss.qmd#aurora_generator) which attracts and enrages the snow worms.
