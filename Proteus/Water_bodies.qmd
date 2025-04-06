@@ -21,7 +21,7 @@ They can be very different compared to the water bodies formed soley by Proteus.
 
 ## POND WATER BODY {#pond}
 
-1 HP | 3D6 appear | EYES:-2 | JAWS:-1 | LIMBS:+2 | NERVES:0
+1 HP | 3D6 appear | EYES : -2 | JAWS : -1 | LIMBS : +2 | NERVES : 0
 
 - Water blast (1 DAMAGE)
 - 1 litre blob of amorphous animated water
@@ -32,7 +32,7 @@ __STILL:__ PONDS are still beings that collect water. They congregate in groups,
 
 ## LAKE WATER BODY {#lake}
 
-3 HP | 1D6 appear | EYES:-1 | JAWS:+1 | LIMBS:+2 | NERVES:-1
+3 HP | 1D6 appear | EYES : -1 | JAWS : +1 | LIMBS : +2 | NERVES : -1
 
 - Bash (3 DAMAGE)
 - Water blast (1D6 DAMAGE, loses 1 health if it deals more than 3 DAMAGE)
@@ -43,7 +43,7 @@ __SKIER:__ Each lake on earth has a corresponding LAKE WATER BODY. Most are impo
 
 ## OCEAN WATER BODY
 
-14 HP | EYES:-1 | JAWS:+2 | LIMBS:+3 | NERVES:0
+14 HP | EYES : -1 | JAWS : +2 | LIMBS : +3 | NERVES : 0
 
 - Boiling bash (1D6 DAMAGE)
 - Waterjet beam (1D6+2 DAMAGE)
@@ -57,7 +57,7 @@ When within its ocean it can create storms, typhoons, whirpools, and tsunamis.
 
 ## MUD TALOS
 
-3 HP | 1 ARMOR | 1D6 appear | EYES:-2 | JAWS:+2 | LIMBS:+2 | NERVES:-2
+3 HP | 1 ARMOR | 1D6 appear | EYES : -2 | JAWS : +2 | LIMBS : +2 | NERVES : -2
 
 - Rock punch (3 DAMAGE, CLOG)
 - Rock sling (1D6 DAMAGE)
@@ -72,7 +72,7 @@ __CLOG__ weapon tag: Successful hits with this weapon clogs the equipped weapon 
 
 ## COMET STARVATAR
 
-7 HP | 1 ARMOR | EYES:+2 | JAWS:0 | LIMBS:+2 | NERVES:0
+7 HP | 1 ARMOR | EYES : +2 | JAWS : 0 | LIMBS : +2 | NERVES : 0
 
 - Starlight rifle (1D6+2 DAMAGE, MEDICAL)
 - Plasma punch (1D6+1 DAMAGE)

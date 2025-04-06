@@ -13,7 +13,7 @@ This is not only led by Proteans but many Gaians involved in health services. Ho
 
 ## TRITON & DELTA SELLER {#triton_delta_seller}
 
-3 HP | 1 ARMOR | EYES:-1 | JAWS:0 | LIMBS:+1 | NERVES:0
+3 HP | 1 ARMOR | EYES : -1 | JAWS : 0 | LIMBS : +1 | NERVES : 0
 
 PANIC 5: Bout of identity crisis)
 
@@ -30,7 +30,7 @@ If killed they will resurrect as the other persona.
 
 ## TRITON & DELTA ENFORCER {#triton-delta-enforcer}
 
-4 HP | 1 ARMOR | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:-1
+4 HP | 1 ARMOR | EYES : -1 | JAWS : +1 | LIMBS : +1 | NERVES : -1
 
 - [MAC-11](https://en.wikipedia.org/wiki/MAC-11) submachine gun (1D6 DAMAGE)
 - [AMT AutoMag III](https://en.wikipedia.org/wiki/AMT_AutoMag_III) hand cannon (1D6+1 DAMAGE)

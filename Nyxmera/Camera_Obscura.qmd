@@ -21,7 +21,7 @@ These rules lead to team ups and rivalries aplenty.
 
 ## ORGAN GRINDER {#organ_grinder}
 
-9 HP \| 1 ARMOR \| EYES:+1 \| JAWS:0 \| LIMBS:-1 \| NERVES:+1
+9 HP \| 1 ARMOR \| EYES : +1 \| JAWS : 0 \| LIMBS : -1 \| NERVES : +1
 
 CHOKE 4: Escape with their jetpack
 
@@ -38,7 +38,7 @@ __CACOPHONOUS DISCORDANCE (BOSS MOVE):__ ORGAN GRINDER plays a horrible cacophon
 
 ## THE ANTIDOTER {#the_antidoter}
 
-4 HP | EYES:+1 \| JAWS:-1 \| LIMBS:0 \| NERVES:+1
+4 HP | EYES : +1 \| JAWS : -1 \| LIMBS : 0 \| NERVES : +1
 
 PANIC 4: ingest a fake cyanide pill which mimics a state of death for 12 hours
 
@@ -54,7 +54,7 @@ __PSIONIC PIPES (BOSS MOVE):__ Only works on individuals who have consumed at le
 
 ## THE KING {#the_king}
 
-4 HP \| EYES:+1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:+2
+4 HP \| EYES : +1 \| JAWS : -1 \| LIMBS : -1 \| NERVES : +2
 
 PANIC 2: Lifts midas touch curse and barters for mercy with pilfered goods
 
@@ -77,7 +77,7 @@ __MIDAS TOUCH (BOSS MOVE):__ They can imbue one gold item and one person with th
 
 ## THE SILHOUETTE {#the_silhouette}
 
-6 HP \| EYES:+1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:-1
+6 HP \| EYES : +1 \| JAWS : -1 \| LIMBS : -1 \| NERVES : -1
 
 - [FAMAS](https://en.wikipedia.org/wiki/FAMAS) assault rifle (1D6+1 DAMAGE, COLLAPSIBLE)
 - Trucker gear
@@ -93,7 +93,7 @@ __COLLAPSIBLE__ weapon tag: Easily concealed, no matter the size; will never be 
 
 ## SILHOUETTE SHADOW CLONE {#silhouette_shadow_clone}
 
-1 HP \| EYES:+1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:-1
+1 HP \| EYES : +1 \| JAWS : -1 \| LIMBS : -1 \| NERVES : -1
 
 - [FAMAS](https://en.wikipedia.org/wiki/FAMAS) assault rifle (1D6+1 DAMAGE)
 - Heavy riot shield (2 ARMOR, equip as weapon)

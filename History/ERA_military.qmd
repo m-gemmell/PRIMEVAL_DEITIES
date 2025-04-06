@@ -8,7 +8,7 @@ The ERA military.
 
 ### CYBORG COLOSSAL SQUID {#cyborg_colossal_squid}
 
-10 HP | 1 ARMOR | EYES:+1 | JAWS:+1 | LIMBS:+2 | NERVES:-1
+10 HP | 1 ARMOR | EYES : +1 | JAWS : +1 | LIMBS : +2 | NERVES : -1
 
 -   Titanium coated beak (1D6+2 DAMAGE), target needs to be grappled by squid
 -   Tentacles with steel tipped hooks (3, DAMAGE) successful attack grapples the target

@@ -11,7 +11,7 @@ Kraken is a large energy and mining corporation. They deal in oil and nuclear po
 
 ## KRAKEN SECURITY GUARD {#kraken_guard}
 
-4 HP | 1 ARMOR | 2 appear | EYES:0 | JAWS:+1 | LIMBS:-1 | NERVES:-1
+4 HP | 1 ARMOR | 2 appear | EYES : 0 | JAWS : +1 | LIMBS : -1 | NERVES : -1
 
 - Bioresonance disruptor rifle (1D6+1 DAMAGE, BIOLOGICAL)
 - Hazard foam grenade launcher, able to fill holes, quench fires, block radiation, and slow down foes (3 uses)
@@ -27,7 +27,7 @@ __BIOLOGICAL__ weapon trait: Only damages biological beings. Cannot damage struc
 
 ## KRAKEN SECURITY WATCHER {#kraken_watcher}
 
-3 HP | EYES:+2 | JAWS:-2 | LIMBS:0 | NERVES:-2
+3 HP | EYES : +2 | JAWS : -2 | LIMBS : 0 | NERVES : -2
 
 - Always with a KRAKEN SECURITY COMMANDER
 - Deployable automated turret suitcase wielding a [Vektor SS-77](https://en.wikipedia.org/wiki/Vektor_SS-77) light machine gun (1D6+1)
@@ -44,7 +44,7 @@ The KRAKEN SECURITY WATCHER loves technology and they can take over control of a
 
 ## KRAKEN SECURITY COMMANDER {#kraken_commander}
 
-6 HP | 2 ARMOR | EYES:0 | JAWS:+1 | LIMBS:0 | NERVES:+1
+6 HP | 2 ARMOR | EYES : 0 | JAWS : +1 | LIMBS : 0 | NERVES : +1
 
 - Always appears with a KRAKEN SECURITY WATCHER
 - [Vektor R4](https://en.wikipedia.org/wiki/Vektor_R4) assault rifle (1D6+1 DAMAGE, BANE)
@@ -65,7 +65,7 @@ __BANE__ weapon tag:  Forged from (or fires) a magically useful material of your
 
 ## KRAKEN PRIVATE CONTRACTOR {#kraken_contractors}
 
-4 HP | 1 ARMOR | 1D6 appear | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:-1
+4 HP | 1 ARMOR | 1D6 appear | EYES : -1 | JAWS : +1 | LIMBS : +1 | NERVES : -1
 
 - [Heckler & Koch MP5K](https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP5) submachine gun (1D6 DAMAGE)
 - Combat knife (1D6 DAMAGE)
@@ -80,7 +80,7 @@ __DOOR-BREACHER__ weapon tag: Can be used to break through any locked or unlocke
 
 ## KRAKEN SLAGGER {#kraken_slagger}
 
-6 HP | 2 ARMOR | EYES:-1 | JAWS:+1 | LIMBS:0 | NERVES:+1
+6 HP | 2 ARMOR | EYES : -1 | JAWS : +1 | LIMBS : 0 | NERVES : +1
 
 - [Bren light machine gun](https://en.wikipedia.org/wiki/Bren_light_machine_gun) (1D6+1 DAMAGE, INCENDIARY)
 - [Heckler & Koch MP5K](https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP5) submachine gun (1D6 DAMAGE)

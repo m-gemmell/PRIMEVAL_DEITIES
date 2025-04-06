@@ -15,7 +15,7 @@ The perfect Suns will do both good and evil. They must amuse Nyxmera to be rewar
 
 ## SUN OF NYXMERA {#sun_nyxmera}
 
-3 HP | EYES:+1 | JAWS:-1 | LIMBS:-1 | NERVES:-1
+3 HP | EYES : +1 | JAWS : -1 | LIMBS : -1 | NERVES : -1
 
 PANIC 3: Stare and applaud
 
@@ -30,7 +30,7 @@ They will call in further SUNS OF NYXMERA if they see a dangerous event possibly
 
 ## MOUTH OF NYXMERA {#mouth_nyxmera}
 
-3 HP | EYES:+2 | JAWS:-1 | LIMBS:-1 | NERVES:0
+3 HP | EYES : +2 | JAWS : -1 | LIMBS : -1 | NERVES : 0
 
 PANIC 4: Escape & lie low
 

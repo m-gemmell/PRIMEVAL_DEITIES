@@ -11,7 +11,7 @@ A sports company specialising in snow and water sports. This company, its compet
 
 ## PROTEAN SURFER 
 
-3 HP | EYES:-1 | JAWS:0 | LIMBS:+1 | NERVES:0
+3 HP | EYES : -1 | JAWS : 0 | LIMBS : +1 | NERVES : 0
 
 PANIC 6: Irreversibly change into a puddle of water
 
@@ -31,7 +31,7 @@ You may be minding your business one second and surfing a wave the next, time is
 
 ## PROTEAN SNOWBOARDER
 
-3 HP | EYES:-1 | JAWS:+1 | LIMBS:+1 | NERVES:0
+3 HP | EYES : -1 | JAWS : +1 | LIMBS : +1 | NERVES : 0
 
 PANIC 6: Collapse into a snowball
 

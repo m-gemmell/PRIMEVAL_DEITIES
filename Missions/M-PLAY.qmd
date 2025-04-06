@@ -60,7 +60,7 @@ If they smash the egg all the emus will disappear and no more will be summoned.
 
 ## GHOST EMU OF WAR {#ghost_emu}
 
-2HP | 9 appear | EYES:-1 \| JAWS:0 \| LIMBS:0 \| NERVES:-1
+2HP | 9 appear | EYES : -1 \| JAWS : 0 \| LIMBS : 0 \| NERVES : -1
 
 - Ghostly claws (worst of 2D6 DAMAGE)
 - Harmed by normal attacks

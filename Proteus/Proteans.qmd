@@ -9,7 +9,7 @@ editor:
 
 ## PROTEAN {#protean}
 
-3HP | EYES:-1 | JAWS:-1 | LIMBS:+1 | NERVES:-1
+3HP | EYES : -1 | JAWS : -1 | LIMBS : +1 | NERVES : -1
 
 PANIC 5: Find the nearest source of water to submerge in
 
@@ -22,7 +22,7 @@ __CALM:__ Proteans are naturally calm individuals. They are easy going and very 
 
 ## PROTEAN CAPTAIN {#protean_captain}
 
-3 HP | EYES:0 | JAWS:-1 | LIMBS:+1 | NERVES:0
+3 HP | EYES : 0 | JAWS : -1 | LIMBS : +1 | NERVES : 0
 
 PANIC 6: Yell commands at others who will be compelled to obey
 

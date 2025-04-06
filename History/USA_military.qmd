@@ -6,7 +6,7 @@ title: "USA military"
 
 ### CYBORG DOLPHIN {#cyborg_dolphin}
 
-4 HP | 1 ARMOR | EYES:+1 | JAWS:0 | LIMBS:+2 | NERVES:+1
+4 HP | 1 ARMOR | EYES : +1 | JAWS : 0 | LIMBS : +2 | NERVES : +1
 
 -   Spear mouth guard (1D6 DAMAGE)
 -   Laser (1D6+1 DAMAGE) works in air and water
@@ -20,7 +20,7 @@ title: "USA military"
 
 ### HUMPBACK WHALE SUBMERSIBLE {#humpback_sub}
 
-20 HP | 1 ARMOR | EYES:0 | JAWS:+2 | LIMBS:-1 | NERVES:-1
+20 HP | 1 ARMOR | EYES : 0 | JAWS : +2 | LIMBS : -1 | NERVES : -1
 
 -   4 torpedoes (1D6+2 DAMAGE)
 -   Sparse titanium plates (1 ARMOR)
@@ -32,7 +32,7 @@ title: "USA military"
 
 ### HUMPBACK WHALE WEAPONS PLATFORM {#humpback_plat}
 
-20 HP | 3 ARMOR | EYES:-2 | JAWS:+2 | LIMBS:-1 | NERVES:-1
+20 HP | 3 ARMOR | EYES : -2 | JAWS : +2 | LIMBS : -1 | NERVES : -1
 
 -   Forward mounted cannons controlled by pilot (3D6+3 DAMAGE, ANTI-MATERIAL, 2 uses)
 -   Fully deployed titanium plating (3 ARMOR), supports whale's weight

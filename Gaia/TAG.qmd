@@ -17,7 +17,7 @@ Some members form more radical groups that sabotage environmentally damaging fac
 
 ## TAG PROTESTOR {#tag_protestor}
 
-3 HP | EYES:-1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:0
+3 HP | EYES : -1 \| JAWS : -1 \| LIMBS : -1 \| NERVES : 0
 
 PANIC 5: Scatter and hide
 
@@ -32,7 +32,7 @@ A touch from a group of protesters will cause most to join the protest. Many tha
 
 ## TAG ECO FIGHTER {#tag_fighter}
 
-4 HP | 1D6 appear | EYES:-1 \| JAWS:0 \| LIMBS:-1 \| NERVES:0
+4 HP | 1D6 appear | EYES : -1 \| JAWS : 0 \| LIMBS : -1 \| NERVES : 0
 
 - [Winchester Model 1200](https://en.wikipedia.org/wiki/Winchester_Model_1200) Pump-action shotgun (1D6+1 DAMAGE)
 - Molotov cocktail (1D6 DAMAGE, one use)
@@ -49,7 +49,7 @@ Intimidation tactics never work of eco warriors.
 
 ## TAG HACKER {#tag_hacker}
 
-5 HP | 1 ARMOR | EYES:+1 \| JAWS:-1 \| LIMBS:-1 \| NERVES:+1
+5 HP | 1 ARMOR | EYES : +1 \| JAWS : -1 \| LIMBS : -1 \| NERVES : +1
 
 - [PB](https://en.wikipedia.org/wiki/PB_(pistol)) silenced pistol (1D6 DAMAGE)
 - Hacker's axe (1D6+1 DAMAGE, ELECTRIFIED)
@@ -71,7 +71,7 @@ __Floppy disk wallet__ item: Contains 5 floppy disks. Each disk is consumed when
 
 ## TAG LEADER {#tag_leader}
 
-6 HP | 1 ARMOR | EYES:0 \| JAWS:0 \| LIMBS:-1 \| NERVES:+1
+6 HP | 1 ARMOR | EYES : 0 \| JAWS : 0 \| LIMBS : -1 \| NERVES : +1
 
 - [Steyr AUG](https://en.wikipedia.org/wiki/Steyr_AUG) assault rifle (1D6+1 DAMAGE)
 - Blade of grass, sword (2D6 DAMAGE, RITUAL)

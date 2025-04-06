@@ -20,7 +20,7 @@ There is a dark side to Tartarus and its Dotters, greed. This greed manifests th
 
 ## DOTTER OF TARTARUS {#dotter}
 
-3 HP | EYES:-1 | JAWS:+1 | LIMBS:0 | NERVES:-1
+3 HP | EYES : -1 | JAWS : +1 | LIMBS : 0 | NERVES : -1
 
 PANIC 4: Find the nearest hole to cower in
 
@@ -34,7 +34,7 @@ __EXPLORER:__ These followers of Tartarus are always on the lookout for entrance
 
 ## ELDER DOTTER OF TARTARUS {#elder_dotter}
 
-3 HP | EYES:0 | JAWS:+1 | LIMBS:-1 | NERVES:+1
+3 HP | EYES : 0 | JAWS : +1 | LIMBS : -1 | NERVES : +1
 
 PANIC 4: Escape from current situation)
 
